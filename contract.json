@@ -1,0 +1,44 @@
+{
+  "_description": "The JSON object Intern A's recommender returns. Intern B's LLM layer consumes this.",
+  "_version": "1.0",
+  "_owner": "Agreed by Intern A & Intern B at end of Week 1 (SYNC 1)",
+
+  "example": {
+    "dish_name": "Dal Makhani",
+    "cuisine": "Indian",
+    "region": "North",
+    "state": "Punjab",
+    "meal_type": "dinner",
+    "flavor_profile": "spicy",
+    "ingredients_required": ["lentils", "butter", "tomato", "onion", "garlic", "cumin", "turmeric"],
+    "ingredients_available": ["lentils", "butter", "tomato", "onion"],
+    "missing_ingredients": ["garlic", "cumin", "turmeric"],
+    "coverage_score": 0.57,
+    "dietary_tags": ["vegetarian", "spicy"],
+    "user_type": "bachelor",
+    "prep_time_mins": 40
+  },
+
+  "field_definitions": {
+    "dish_name":             "string   — canonical dish name from the dataset",
+    "cuisine":               "string   — always 'Indian' for now; expand later if dataset grows",
+    "region":                "string|null — e.g. North, South, East, West, North East. null if unknown",
+    "state":                 "string|null — e.g. Punjab, West Bengal. null if unknown",
+    "meal_type":             "string   — one of: breakfast | lunch | dinner | snack",
+    "flavor_profile":        "string|null — one of: sweet | spicy | savory | bitter | sour. null if unknown",
+    "ingredients_required":  "string[] — all normalised ingredients the dish needs",
+    "ingredients_available": "string[] — subset the user said they have (matched after normalisation)",
+    "missing_ingredients":   "string[] — ingredients_required minus ingredients_available. Empty [] if fully covered",
+    "coverage_score":        "float 0.0–1.0 — len(available) / len(required). Intern B: flag to user if < 0.4",
+    "dietary_tags":          "string[] — e.g. ['vegetarian', 'spicy']. Intern B uses this for recipe framing",
+    "user_type":             "string   — one of: bachelor | student | family | health-focused",
+    "prep_time_mins":        "int      — total prep time in minutes"
+  },
+
+  "rules": {
+    "missing_ingredients": "Always present, never omitted. Empty array [] when nothing is missing — not null.",
+    "coverage_score":      "If coverage_score < 0.4, Intern B's LLM must ask the user about missing_ingredients before generating the recipe.",
+    "nulls":               "Only region and state may be null. All other fields must always be present.",
+    "user_type":           "Intern B collects this from the user at session start and passes it in the request to Intern A."
+  }
+}
