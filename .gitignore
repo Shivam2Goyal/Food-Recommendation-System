@@ -1,13 +1,25 @@
+# Python
 venv/
-.venv/
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
-.Python
 .pytest_cache/
-.mypy_cache/
-.coverage
-dist/
-build/
 *.egg-info/
+
+# Data
+data/raw/*.csv
+data/feedback*.db
+data/clean/*.json
+
+# Keep folder structure even though contents are ignored
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env
+.env

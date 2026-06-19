@@ -11,10 +11,12 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 45,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -29,10 +31,12 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 80,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -50,10 +54,14 @@
       "raisins"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -75,10 +83,13 @@
       "green cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -98,10 +109,13 @@
       "rose water"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -115,10 +129,14 @@
       "lentil flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -139,18 +157,20 @@
       "cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Kaju katli",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "cashews",
       "butter",
@@ -158,10 +178,14 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -176,18 +200,22 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Kheer",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "milk",
       "rice",
@@ -195,28 +223,37 @@
       "dried fruits"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Laddu",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "chickpea flour",
       "butter",
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -232,18 +269,22 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Nankhatai",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "refined flour",
       "chickpea flour",
@@ -253,10 +294,13 @@
       "green cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -272,10 +316,14 @@
       "alum powder"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -290,10 +338,12 @@
       "nuts"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -309,10 +359,14 @@
       "nuts"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -328,10 +382,14 @@
       "milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -346,10 +404,13 @@
       "molu leaf"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -364,10 +425,15 @@
       "dry fruits"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -384,10 +450,12 @@
       "cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 60,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -402,10 +470,14 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -420,10 +492,13 @@
       "milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 60,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -437,10 +512,14 @@
       "chenna cheese"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -458,10 +537,12 @@
       "coconut flakes"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 40,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -478,10 +559,13 @@
       "cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 25,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -496,10 +580,12 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 45,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -514,10 +600,14 @@
       "sugar syrup"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -533,10 +623,14 @@
       "fennel seeds"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -551,10 +645,14 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -568,6 +666,7 @@
       "jaggery"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -587,10 +686,12 @@
       "flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 45,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -604,10 +705,13 @@
       "wheat flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -621,10 +725,13 @@
       "sweetened milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -639,6 +746,7 @@
       "pistachio"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 180,
     "dietary_tags": [
       "vegetarian",
@@ -657,10 +765,14 @@
       "cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -676,10 +788,12 @@
       "cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -696,10 +810,14 @@
       "elachi"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -714,10 +832,14 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -736,10 +858,13 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -753,10 +878,13 @@
       "jaggery"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -771,10 +899,14 @@
       "dharwadi buffalo milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -788,10 +920,13 @@
       "milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -808,10 +943,14 @@
       "semolina"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -825,10 +964,14 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -842,10 +985,13 @@
       "rice"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -865,10 +1011,13 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -887,10 +1036,12 @@
       "cardamom"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "sweet",
     "prep_time_mins": 180,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -904,10 +1055,13 @@
       "milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -921,10 +1075,12 @@
       "jaggery"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 240,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -940,10 +1096,14 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -958,10 +1118,14 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -975,10 +1139,14 @@
       "sugar syrup"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -992,10 +1160,13 @@
       "milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1011,10 +1182,13 @@
       "coconut"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1029,6 +1203,7 @@
       "coconut"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 40,
     "dietary_tags": [
       "vegetarian",
@@ -1047,10 +1222,13 @@
       "khus-khus seeds"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1065,10 +1243,14 @@
       "nuts"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1082,10 +1264,14 @@
       "rava"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -1101,10 +1287,14 @@
       "dry fruits"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1118,10 +1308,15 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1136,10 +1331,13 @@
       "jaggery"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1155,10 +1353,14 @@
       "semolina"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1174,10 +1376,14 @@
       "cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1192,10 +1398,14 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1213,10 +1423,12 @@
       "garlic"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick"
     ],
     "user_type_affinity": []
   },
@@ -1232,10 +1444,12 @@
       "ginger and garlic"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1251,10 +1465,13 @@
       "cardamom"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 240,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1272,10 +1489,12 @@
       "pork"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick"
     ],
     "user_type_affinity": []
   },
@@ -1292,10 +1511,14 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1312,10 +1535,13 @@
       "salt"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1333,10 +1559,12 @@
       "garlic"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick"
     ],
     "user_type_affinity": []
   },
@@ -1353,10 +1581,14 @@
       "oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "bitter",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "bitter"
+      "bitter",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1373,10 +1605,13 @@
       "salt"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1393,10 +1628,13 @@
       "baking soda"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1413,10 +1651,13 @@
       "chili powder"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1433,10 +1674,12 @@
       "green chillies"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1454,10 +1697,13 @@
       "butter"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1475,10 +1721,13 @@
       "avocado oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1494,10 +1743,13 @@
       "all purpose flour"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1515,10 +1767,12 @@
       "saffron"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick"
     ],
     "user_type_affinity": []
   },
@@ -1535,10 +1789,14 @@
       "garam masala"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1555,9 +1813,10 @@
       "whole egg"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 120,
     "dietary_tags": [
-      "non vegetarian",
+      "non-vegetarian",
       "spicy"
     ],
     "user_type_affinity": []
@@ -1575,10 +1834,13 @@
       "cinnamon stick"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1595,10 +1857,14 @@
       "almond"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1615,10 +1881,12 @@
       "all purpose flour"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1635,10 +1903,16 @@
       "chili powder"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "healthy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1655,10 +1929,14 @@
       "kasuri methi"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1675,10 +1953,13 @@
       "tomato"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1695,10 +1976,14 @@
       "lemon juice"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1715,10 +2000,14 @@
       "garam masala powder"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1735,10 +2024,12 @@
       "fennel seeds"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1755,10 +2046,14 @@
       "cashew nuts"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1775,10 +2070,14 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1795,18 +2094,22 @@
       "amchur powder"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "bitter",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "bitter"
+      "bitter",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Khichdi",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "moong dal",
       "green peas",
@@ -1815,10 +2118,12 @@
       "green chili"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 40,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -1835,18 +2140,22 @@
       "garam masala"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Kulfi falooda",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "rose syrup",
       "falooda sev",
@@ -1855,10 +2164,12 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 45,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1875,18 +2186,22 @@
       "chillies"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Lauki ki subji",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "bottle gourd",
       "coconut oil",
@@ -1895,10 +2210,15 @@
       "green chillies"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -1915,6 +2235,7 @@
       "chilli"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 45,
     "dietary_tags": [
       "vegetarian",
@@ -1935,10 +2256,12 @@
       "ginger"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 25,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -1953,6 +2276,7 @@
       "green chilies"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -1973,10 +2297,13 @@
       "bell pepper"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -1993,10 +2320,13 @@
       "tomato"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -2012,10 +2342,11 @@
       "garlic"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 60,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2032,10 +2363,12 @@
       "garam masala powder"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 25,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -2052,10 +2385,15 @@
       "butter"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2072,10 +2410,14 @@
       "butter"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2092,18 +2434,22 @@
       "bell pepper"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Pani puri",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "kala chana",
       "mashed potato",
@@ -2112,10 +2458,13 @@
       "lemon"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -2132,18 +2481,21 @@
       "semolina"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Papad",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "urad dal",
       "sev",
@@ -2151,10 +2503,14 @@
       "chopped tomatoes"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2170,10 +2526,14 @@
       "coriander"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2190,10 +2550,13 @@
       "imli"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -2210,6 +2573,7 @@
       "cinnamon"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -2220,7 +2584,7 @@
   {
     "name": "Rajma chaval",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "North",
     "ingredients": [
       "red kidney beans",
@@ -2230,10 +2594,15 @@
       "mustard oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2250,18 +2619,21 @@
       "mustard oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Samosa",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "potatoes",
       "green peas",
@@ -2270,6 +2642,7 @@
       "dough"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -2290,10 +2663,14 @@
       "mustard oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2310,10 +2687,14 @@
       "tomato"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2330,10 +2711,13 @@
       "almonds"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -2350,10 +2734,14 @@
       "carrot"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -2370,10 +2758,12 @@
       "mustard oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 240,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2390,10 +2780,12 @@
       "green bell pepper"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 240,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2410,10 +2802,12 @@
       "green chilli"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 150,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2430,10 +2824,13 @@
       "urad dal"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "healthy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2450,10 +2847,13 @@
       "french beans"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "healthy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2470,17 +2870,21 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Dosa",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "chana dal",
@@ -2490,10 +2894,12 @@
       "rock salt"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2508,6 +2914,7 @@
       "grated coconut"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 120,
     "dietary_tags": [
       "vegetarian",
@@ -2518,7 +2925,7 @@
   {
     "name": "Idli",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "split urad dal",
@@ -2528,10 +2935,12 @@
       "rock salt"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2547,10 +2956,13 @@
       "black salt"
     ],
     "meal_type": "snack",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -2567,10 +2979,12 @@
       "tomato"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2587,10 +3001,16 @@
       "coconut oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2607,10 +3027,13 @@
       "spinach"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2626,10 +3049,13 @@
       "fenugreek seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -2646,10 +3072,14 @@
       "red chili"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2667,10 +3097,13 @@
       "chili powder"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2687,10 +3120,15 @@
       "peas"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2707,10 +3145,14 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2727,10 +3169,15 @@
       "lemon juice"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2747,10 +3194,14 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2766,10 +3217,14 @@
       "grated coconut"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2786,17 +3241,21 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Masala Dosa",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "chana dal",
@@ -2806,17 +3265,19 @@
       "thick poha"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Pachadi",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "coconut oil",
@@ -2826,10 +3287,15 @@
       "mustard seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "healthy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2846,10 +3312,13 @@
       "green chilli"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2864,10 +3333,15 @@
       "vegetable oil"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2882,6 +3356,7 @@
       "milk"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -2892,7 +3367,7 @@
   {
     "name": "Payasam",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "rice",
@@ -2902,10 +3377,14 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -2922,10 +3401,13 @@
       "fennel seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2939,10 +3421,12 @@
       "rice flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 120,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -2959,10 +3443,13 @@
       "mustard"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "healthy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -2979,17 +3466,20 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Rasam",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "tomato",
@@ -2999,10 +3489,14 @@
       "hot water"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3017,17 +3511,18 @@
       "grated coconut"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "comfort"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Sambar",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "pigeon peas",
@@ -3037,10 +3532,13 @@
       "tamarind"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3055,17 +3553,18 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 120,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Sevai",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "sevai",
@@ -3073,10 +3572,11 @@
       "steamer"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 120,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3094,10 +3594,13 @@
       "mustard seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3114,17 +3617,21 @@
       "tamarind"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "healthy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Uttapam",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "chana dal",
@@ -3134,17 +3641,22 @@
       "butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Vada",
     "cuisine": "Indian",
-    "state": "-1",
+    "state": null,
     "region": "South",
     "ingredients": [
       "urad dal",
@@ -3154,10 +3666,14 @@
       "black pepper"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3174,18 +3690,22 @@
       "cinnamon"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Upma",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "chana dal",
       "urad dal",
@@ -3194,10 +3714,15 @@
       "sugar"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3214,10 +3739,14 @@
       "hot water"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3234,10 +3763,13 @@
       "red chilli"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3254,10 +3786,12 @@
       "ginger"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3273,10 +3807,14 @@
       "sooji"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3291,10 +3829,13 @@
       "hot water"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3311,10 +3852,13 @@
       "cashews"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3328,10 +3872,12 @@
       "sesame seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3348,9 +3894,10 @@
       "green chilies"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
+      "non-vegetarian",
       "spicy"
     ],
     "user_type_affinity": []
@@ -3368,10 +3915,13 @@
       "red chilli"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3388,10 +3938,14 @@
       "chana daal"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3408,10 +3962,14 @@
       "black salt"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3428,10 +3986,13 @@
       "desiccated coconut"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3448,10 +4009,14 @@
       "bengal gram flour"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3468,6 +4033,7 @@
       "star anise"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -3488,10 +4054,11 @@
       "tamarind"
     ],
     "meal_type": "snack",
+    "flavor_profile": null,
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3508,10 +4075,14 @@
       "red chilli"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3528,10 +4099,13 @@
       "sesame"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3548,10 +4122,15 @@
       "clarified butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3568,10 +4147,14 @@
       "chickpea flour"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3587,10 +4170,14 @@
       "sliced almonds"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3605,6 +4192,7 @@
       "all purpose flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -3625,10 +4213,15 @@
       "toor dal"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3645,6 +4238,7 @@
       "litre milk"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -3664,10 +4258,14 @@
       "boiled potatoes"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3682,10 +4280,13 @@
       "rapeseed oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3699,10 +4300,14 @@
       "sugar"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "sour",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sour"
+      "sour",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3717,10 +4322,13 @@
       "bengal gram flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3737,10 +4345,14 @@
       "green chili"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3757,10 +4369,14 @@
       "turmeric"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3776,10 +4392,14 @@
       "dry roasted"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3795,10 +4415,14 @@
       "cilantro"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -3815,10 +4439,13 @@
       "fenugreek leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "bitter",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "bitter"
+      "bitter",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3835,10 +4462,13 @@
       "saffron"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3855,10 +4485,14 @@
       "bengal gram flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "bitter",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "bitter"
+      "bitter",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -3875,10 +4509,13 @@
       "imli"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3895,10 +4532,13 @@
       "dinner rolls"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -3915,10 +4555,14 @@
       "curry leaves"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3936,10 +4580,13 @@
       "green chili"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 70,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -3956,10 +4603,14 @@
       "garlic"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3975,10 +4626,14 @@
       "sugar"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -3995,10 +4650,14 @@
       "sunflower oil"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4013,10 +4672,14 @@
       "clarified butter"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4033,6 +4696,7 @@
       "grated coconut"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 60,
     "dietary_tags": [
       "vegetarian",
@@ -4053,6 +4717,7 @@
       "sesame seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 25,
     "dietary_tags": [
       "vegetarian",
@@ -4073,6 +4738,7 @@
       "green peas"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 25,
     "dietary_tags": [
       "vegetarian",
@@ -4093,10 +4759,14 @@
       "coconut"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -4114,10 +4784,14 @@
       "cinnamon"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -4134,6 +4808,7 @@
       "plain flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -4154,10 +4829,12 @@
       "salt"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4173,10 +4850,14 @@
       "peanut oil"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4192,10 +4873,13 @@
       "wheat flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -4212,10 +4896,11 @@
       "black pepper"
     ],
     "meal_type": "snack",
+    "flavor_profile": null,
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4232,10 +4917,13 @@
       "chickpea flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -4252,10 +4940,12 @@
       "peas"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 35,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4272,10 +4962,14 @@
       "gur"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 12,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -4290,6 +4984,7 @@
       "yogurt"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -4309,10 +5004,14 @@
       "orange rind"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4329,10 +5028,13 @@
       "fennel seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4348,10 +5050,12 @@
       "beetroot"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -4365,10 +5069,14 @@
       "vegetable oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "healthy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4384,10 +5092,14 @@
       "green chillies"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 5,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4404,10 +5116,15 @@
       "mustard oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 15,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "easy",
+      "healthy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4424,10 +5141,10 @@
       "coriander"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 30,
     "dietary_tags": [
-      "vegetarian",
-      "-1"
+      "vegetarian"
     ],
     "user_type_affinity": []
   },
@@ -4444,10 +5161,13 @@
       "bay leaf"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "-1"
+      "non-vegetarian",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4464,10 +5184,11 @@
       "garlic powder"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "-1"
+      "non-vegetarian",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4484,28 +5205,34 @@
       "mustard seeds"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "healthy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Brown Rice",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "brown rice",
       "soy sauce",
       "olive oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 15,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4522,10 +5249,14 @@
       "red onion"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -4541,10 +5272,14 @@
       "all purpose flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4558,6 +5293,7 @@
       "raisins"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -4578,10 +5314,13 @@
       "bay leaf"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 20,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -4598,10 +5337,12 @@
       "green chili"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 15,
     "dietary_tags": [
-      "non vegetarian",
-      "-1"
+      "non-vegetarian",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -4618,9 +5359,10 @@
       "ginger"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
+      "non-vegetarian",
       "spicy"
     ],
     "user_type_affinity": []
@@ -4638,10 +5380,12 @@
       "mustard oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4658,10 +5402,12 @@
       "lemon juice"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4678,10 +5424,12 @@
       "cinnamon stick"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4699,10 +5447,12 @@
       "baking powder"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4719,10 +5469,12 @@
       "tomato"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 30,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4739,10 +5491,14 @@
       "raisins"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "sweet",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -4758,10 +5514,11 @@
       "dry chilli"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "traditional"
     ],
     "user_type_affinity": []
   },
@@ -4777,10 +5534,12 @@
       "soaked rice"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -4797,10 +5556,12 @@
       "cardamom pods"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4817,18 +5578,23 @@
       "sugar"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 15,
     "dietary_tags": [
-      "non vegetarian",
-      "spicy"
+      "non-vegetarian",
+      "spicy",
+      "quick",
+      "easy",
+      "comfort",
+      "traditional"
     ],
     "user_type_affinity": []
   },
   {
     "name": "Red Rice",
     "cuisine": "Indian",
-    "state": "-1",
-    "region": "-1",
+    "state": null,
+    "region": null,
     "ingredients": [
       "red pepper",
       "red onion",
@@ -4837,10 +5603,11 @@
       "olive oil"
     ],
     "meal_type": "dinner",
+    "flavor_profile": null,
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
-      "-1"
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4857,10 +5624,14 @@
       "brinjal"
     ],
     "meal_type": "dinner",
+    "flavor_profile": "spicy",
     "prep_time_mins": 10,
     "dietary_tags": [
       "vegetarian",
-      "spicy"
+      "spicy",
+      "quick",
+      "easy",
+      "healthy"
     ],
     "user_type_affinity": []
   },
@@ -4875,10 +5646,13 @@
       "gur"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 5,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -4894,10 +5668,14 @@
       "all purpose flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy",
+      "comfort"
     ],
     "user_type_affinity": []
   },
@@ -4914,6 +5692,7 @@
       "badam"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
@@ -4933,10 +5712,13 @@
       "all purpose flour"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 20,
     "dietary_tags": [
       "vegetarian",
-      "sweet"
+      "sweet",
+      "quick",
+      "easy"
     ],
     "user_type_affinity": []
   },
@@ -4953,6 +5735,7 @@
       "ginger powder"
     ],
     "meal_type": "snack",
+    "flavor_profile": "sweet",
     "prep_time_mins": 30,
     "dietary_tags": [
       "vegetarian",
