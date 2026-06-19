@@ -1,6 +1,6 @@
-# Food Recommender — Intern A Component
+# Food Recommender
 
-Recommender engine for the food recommendation app. Owns dataset, ingredient matching, ranking, feedback storage, and evaluation. Exposes a single HTTP endpoint for the LLM/product layer (Intern B) to call.
+Recommender engine for the food recommendation app. Owns dataset, ingredient matching, ranking, feedback storage, and evaluation. Exposes a single HTTP endpoint for the LLM/product layer) to call.
 
 ## Architecture
 
